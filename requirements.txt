@@ -1,0 +1,8 @@
+openai
+arize-phoenix
+openinference-instrumentation-openai
+opentelemetry-api
+opentelemetry-sdk
+numpy
+python-dotenv
+tqdm
